@@ -2,6 +2,7 @@ How to install:
 1.Download/clone the repo
 2. Start Run.bat
 
+
 Add/change keybinds in Main.py by changing them in the actions array
 For example;
 
