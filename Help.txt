@@ -1,0 +1,33 @@
+Add/change keybinds in Main.py by changing them in the actions array
+For example;
+
+"f4":        "Macros/Personal_Vehicle_Spawn.txt",
+
+will bind the key f4 to the path of a macro located in a text file of your choosing.
+
+A typical macro will look something like this:
+
+m
+down
+down
+enter
+enter
+m
+
+Simply type the key you want to use into a line
+
+
+In order to hold down a key you must type the key twice into the same line:
+
+;;
+
+will hold ";" for .25 seconds
+
+;;;
+
+will hold ";" for .5 seconds
+and so on
+
+
+Useful key names can be found here:
+https://wingware.com/doc/custom/key-names

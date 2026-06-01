@@ -1,0 +1,7 @@
+m
+down
+down
+enter
+enter
+delay 1
+m

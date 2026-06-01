@@ -1,0 +1,9 @@
+up
+delay 0.5
+up
+right
+enter
+left
+up
+up
+enter
